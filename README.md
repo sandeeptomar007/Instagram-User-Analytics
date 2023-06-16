@@ -5,11 +5,11 @@ User analysis is the process by which we track how users engage and interact wit
 
 These insights are then used by teams across the business to launch a new marketing campaign, decide on features to build for an app, track the success of the app by measuring user engagement and improve the experience altogether while helping the business grow.
 You are working with the product team of Instagram and the product manager has asked you to provide insights on the questions asked by the management team.
-
+## Finding Insights
 ### A) Marketing: The marketing team wants to launch some campaigns, and they need your help with the following
 
 #### Rewarding Most Loyal Users: People who have been using the platform for the longest time.
-My Task: Find the 5 oldest users of the Instagram from the database provided
+My Task: Find the 5 oldest users of Instagram from the database provided
 #### Remind Inactive Users to Start Posting: By sending them promotional emails to post their 1st photo.
 My Task: Find the users who have never posted a single photo on Instagram
 #### Declaring Contest Winner: The team started a contest and the user who gets the most likes on a single photo will win the contest now they wish to declare the winner.
